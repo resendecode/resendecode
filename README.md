@@ -1,6 +1,6 @@
 # Gabriel Resende
 
-**Développeur full stack Java / Angular** — Pau, France · télétravail ou mobile France entière
+**Développeur full stack Java / Angular** — Pau, France · télétravail ou mobile France entière<br>
 [LinkedIn](https://www.linkedin.com/in/gabriel-resende747/) · [Portfolio](https://resendecode.github.io/portfolio/) · gabrielresende02@proton.me
 
 🇫🇷 Français · 🇬🇧 [English below](#english)
