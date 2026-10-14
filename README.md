@@ -64,6 +64,7 @@ Le dépôt est privé (c'est le produit de l'entreprise), mais je le présente a
 
 | Dépôt | Ce que c'est |
 |---|---|
+| [spring-jwt-refresh-cookie](https://github.com/resendecode/spring-jwt-refresh-cookie) | 🔐 Authentification à deux jetons, réécrite de zéro : access token JWT + refresh token rotatif en cookie HttpOnly, détection de réutilisation, tests Testcontainers — Spring Boot 4 / Java 25 |
 | [2025_SocioPulse](https://github.com/resendecode/2025_SocioPulse) | 🤝 Projet tuteuré avec Capgemini — réseau social Angular / Laravel / MySQL, authentification et déploiement Docker |
 | [ProjectManager](https://github.com/resendecode/ProjectManager) | 📐 Projet de génie logiciel — Angular / Spring Boot, UML et SRS |
 | [BetterFood](https://github.com/resendecode/BetterFood) | 🥗 Informations nutritionnelles par code-barres (OpenFoodFacts), Java |
