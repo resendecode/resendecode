@@ -5,7 +5,7 @@
   📍 Pau, France · télétravail ou prêt à bouger partout en France
 </p>
 
-Je sors d'un Master Technologies Internet (UPPA) et de six mois comme **seul développeur** d'un studio de rendu 3D : j'y ai remplacé une application vitrine par une vraie plateforme SaaS, de la première ligne de code à la mise en production. 🚀
+Je sors d'un Master Technologies Internet (UPPA) et de six mois comme **seul développeur** d'un studio de rendu 3D : j'y ai construit la plateforme SaaS destinée à remplacer leur application vitrine, de la première ligne de code à la mise en production. 🚀
 
 J'aime les architectures qu'on comprend encore six mois plus tard, les tests qui tournent sur une vraie base de données et les déploiements sans surprise. Je cherche mon premier poste, **full stack ou backend**.
 
@@ -49,7 +49,7 @@ J'aime les architectures qu'on comprend encore six mois plus tard, les tests qui
 
 ## 🦎 Mon dernier gros projet : Gecko
 
-Une plateforme de **Digital Asset Management** pour rendus 3D, construite chez UPDAT3D d'avril à septembre 2026. Une grande marque horlogère y parcourt ses catalogues, approuve les versions et laisse ses retours directement sur l'image.
+Une plateforme de **Digital Asset Management** pour rendus 3D, construite chez UPDAT3D d'avril à septembre 2026. Elle est conçue pour qu'une grande marque horlogère y parcoure ses catalogues, approuve les versions et laisse ses retours directement sur l'image.
 
 Le dépôt est privé (c'est le produit de l'entreprise), mais je le présente avec plaisir en entretien. En attendant, voici ce qu'il y a sous le capot :
 
@@ -57,7 +57,7 @@ Le dépôt est privé (c'est le produit de l'entreprise), mais je le présente a
 - 🅰️ **Frontend** — SPA Angular 21 (signals, zoneless) : galerie, visionneuse 360°, comparaison de versions, revue client avec commentaires épinglés
 - 🔐 **Sécurité** — JWT avec refresh token rotatif en cookie HttpOnly, rôles, CSP stricte
 - 🪣 **Stockage objet** — Cloudflare R2 : upload direct navigateur → bucket par URL pré-signée, versions immuables
-- 🚢 **Mise en production** — VPS, Docker Compose, Caddy, CI GitHub Actions qui teste puis publie les images ; en service depuis août 2026
+- 🚢 **Mise en production** — VPS, Docker Compose, Caddy, CI GitHub Actions qui teste puis publie les images ; déployée en août 2026, livrée en versions successives jusqu'à fin septembre
 - 📚 **Transmission** — tests d'intégration sur PostgreSQL embarqué, glossaire de domaine, ADR et notes techniques pour la personne qui reprendra le projet
 
 ## 📂 À voir ici
@@ -80,15 +80,15 @@ Musculation, jeux de stratégie en temps réel, musique expérimentale et danse.
 
 **Hi 👋 I'm Gabriel**, a full-stack developer (Java / Angular) based in Pau, France — remote or happy to relocate within France.
 
-I just finished a Master's in Internet Technologies (UPPA) and six months as the **only developer** at a 3D rendering studio, where I replaced a showcase app with a real SaaS platform, from the first line of code to production. I like architectures you can still understand six months later, tests that run against a real database, and boring deployments. I'm looking for my first position, **full stack or backend**.
+I just finished a Master's in Internet Technologies (UPPA) and six months as the **only developer** at a 3D rendering studio, where I built the SaaS platform meant to replace their showcase app, from the first line of code to production. I like architectures you can still understand six months later, tests that run against a real database, and boring deployments. I'm looking for my first position, **full stack or backend**.
 
-**🦎 Latest big project: Gecko** — a Digital Asset Management platform for 3D renders, built at UPDAT3D from April to September 2026. A major watch brand browses its catalogues, approves versions and leaves feedback right on the image. The repository is private (company product), but I'm happy to walk through it in an interview.
+**🦎 Latest big project: Gecko** — a Digital Asset Management platform for 3D renders, built at UPDAT3D from April to September 2026. It is designed for a major watch brand to browse its catalogues, approve versions and leave feedback right on the image. The repository is private (company product), but I'm happy to walk through it in an interview.
 
 - ☕ **Backend** — Spring Boot 4 / Java 25 REST API, rich domain model, JPA / PostgreSQL, Flyway migrations
 - 🅰️ **Frontend** — Angular 21 SPA (signals, zoneless): gallery, 360° viewer, version comparison, client review with pinned comments
 - 🔐 **Security** — JWT with a rotating refresh token in an HttpOnly cookie, roles, strict CSP
 - 🪣 **Object storage** — Cloudflare R2: direct browser-to-bucket upload through pre-signed URLs, immutable versions
-- 🚢 **Production** — VPS, Docker Compose, Caddy, GitHub Actions CI that tests then publishes images; live since August 2026
+- 🚢 **Production** — VPS, Docker Compose, Caddy, GitHub Actions CI that tests then publishes images; deployed in August 2026, shipped in successive releases until the end of September
 - 📚 **Handover** — integration tests on embedded PostgreSQL, domain glossary, ADRs and technical notes for whoever takes over
 
 Outside of code: weightlifting, real-time strategy games, experimental music and dancing. I speak Portuguese, French, English and Spanish.
